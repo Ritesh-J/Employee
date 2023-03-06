@@ -1,7 +1,5 @@
 package com.demo.employee.emp.service;
 
-import com.demo.employee.admin.model.AdminModel;
-import com.demo.employee.admin.repository.AdminRepository;
 import com.demo.employee.emp.model.EmpModel;
 import com.demo.employee.emp.repository.EmpRepository;
 import org.springframework.beans.factory.annotation.Autowired;
